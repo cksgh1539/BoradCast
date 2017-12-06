@@ -5,7 +5,7 @@ import android.content.IntentFilter;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
-
+//배터리 리시버, 알림
 public class MainActivity extends AppCompatActivity {
             BatterWatchBr mBatterWatchBr;
         @Override
